@@ -1,9 +1,9 @@
 {
-  "name": "catchup-graphql-react",
+  "name": "node-react-graphql-chat-app",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:rgripper/catchup-graphql-react.git",
-  "author": "Vladimir <azuresplash@gmail.com>",
+  "repository": "https://github.com/karkranikhil/node-react-graphql-chat-app.git",
+  "author": "Nikhil karkra <karkra.nikhil@gmail.com>",
   "license": "MIT",
   "scripts": {
     "client:install": "yarn --cwd packages/client",
